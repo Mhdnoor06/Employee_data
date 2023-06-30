@@ -78,7 +78,7 @@ function ListView() {
                   index === 0 ? 'show' : ''
                 }`}
               >
-                <div className="accordion-body" style={{ width: '40%' }}>
+                <div className="accordion-body" style={{ width: '200px' }}>
                   <div className="card">
                     <img
                       src={item.avatar}
